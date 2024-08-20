@@ -1,0 +1,14 @@
+/* styles.css */
+.underline-thick {
+  text-decoration: underline;
+  text-decoration-thickness: 4px; /* Adjust the thickness as needed */
+  text-underline-offset: 4px; /* Adjust the offset to increase the gap */
+  text-decoration-color: red; /* Adjust the color as needed */
+}
+
+.hover-underline-thick:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+  text-underline-offset: 4px;
+  text-decoration-color: purple;
+}
